@@ -1,0 +1,47 @@
+# Traitement de données
+pandas
+numpy
+openpyxl
+xlrd
+regex
+
+# Statistiques et modèles
+scipy
+statsmodels
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+bokeh
+folium
+geopandas
+
+# Dashboard et interfaces
+dash
+streamlit
+streamlit-authenticator
+jinja2
+
+# Planification & automatisation
+schedule
+APScheduler
+celery
+
+# Machine Learning (facultatif : activer si utilisé)
+# xgboost
+# lightgbm
+# tensorflow
+# keras
+
+# Exportation et documents
+python-docx
+weasyprint
+pdfkit
+fpdf
+
+# Base de données
+pyodbc
+sqlalchemy
+requests
